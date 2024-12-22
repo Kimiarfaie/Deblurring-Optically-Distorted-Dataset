@@ -9,4 +9,4 @@ In this project, we evaluated multiple conventional and deep learning-based imag
 
 ## Evalauated Methods
 **Conventional Methods**
-1. [Blind Image Deblurring Using Patch-Wise Minimal Pixels Regularization]([URL](https://github.com/FWen/deblur-pmp)) under ESModel folders
+1. [Blind Image Deblurring Using Patch-Wise Minimal Pixels Regularization](https://github.com/FWen/deblur-pmp) under ESModel folders
