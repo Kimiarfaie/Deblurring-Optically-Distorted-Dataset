@@ -9,4 +9,20 @@ In this project, we evaluated multiple conventional and deep learning-based imag
 
 ## Evalauated Methods
 **Conventional Methods**
-1. [Blind Image Deblurring Using Patch-Wise Minimal Pixels Regularization](https://github.com/FWen/deblur-pmp) under ESModel folders
+1. [Blind Image Deblurring Using Patch-Wise Minimal Pixels Regularization](https://github.com/FWen/deblur-pmp) under PMP folders.
+2. [Enhanced Sparse Model for Blind Deblurring](https://liangchen527.github.io/) under ESModel folders.
+3. [A semi-blind deconvolution method to estimate and remove optical aberrations](https://www.sciencedirect.com/science/article/pii/S003040262400113X)
+
+**Deep-Learning Based Models**
+1. [Simple Baselines for Image Restoration](https://github.com/megvii-research/NAFNet) under NAFNet folders.
+2. [Learning to Deblur using Light Field Generated and Real Defocused Images](https://github.com/lingyanruan/DRBNet) under DRBNet folders. 
+3. [Multi-Stage Progressive Image Restoration](https://github.com/swz30/MPRNet) under MPRNet folders.
+4. [Revisiting Image Deblurring with an Efficient ConvNet](https://github.com/lingyanruan/LaKDNet) under LaKDNet folders.
+5. [Learning Single Image Defocus Deblurring with Misaligned Training Pairs](https://github.com/liyucs/JDRL) under JDRL folders.
+6. [Efficient Transformer for High-Resolution Image Restoration](https://github.com/swz30/Restormer) under Restormer folders.
+7. [Stripformer: Strip Transformer for Fast Image Deblurring](https://github.com/pp00704831/Stripformer-ECCV-2022-) under Stripformer folders.
+8. [Rethinking Coarse-to-Fine Approach in Single Image Deblurring](https://github.com/chosj95/MIMO-UNet) under MIMOUnet folders.
+
+## Evalauation Metrics
+Metrics such as **MSSIM**, **FSIM**, **PSNR**, **LPC** **BRISQUE**, **CPBD**, and **JNB** were used to quantitatively assess the deblurred images' quality.
+
